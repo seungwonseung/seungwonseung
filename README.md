@@ -12,12 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=170&section=header" />
-<!-- header End  -->
-<!-- body -->
-
-<!-- body End -->
-<!-- footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=170&section=footer" />
-<!-- footer End- ->
+![header](https://capsule-render.vercel.app/api?type=waving&color=abbdff&height=200&section=header&text=SeungWon's%20GitHub&fontSize=45&fontAlign=71&fontAlignY=40)
