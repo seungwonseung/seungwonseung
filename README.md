@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **seungwonseung/seungwonseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=SeungWonShin&fontSize=90" />
+<!-- header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=170&section=header" />
+<!-- header End  -->
+<!-- body -->
+
+<!-- body End -->
+<!-- footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=170&section=footer" />
+<!-- footer End- ->
